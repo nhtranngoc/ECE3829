@@ -1,0 +1,6 @@
+*
+!*/
+!*.v
+!*.bin
+!README.md
+!.gitignore
